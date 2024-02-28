@@ -2,7 +2,7 @@
 
 ![Figure1.pdf](https://github.com/stefanhgm/patient_summaries_with_llms/files/14378703/Figure1.pdf)
 
-This repository contains the code to reproduce the results of the  paper [A Data-Centric Approach To Generate Faithful and High Quality Patient Summaries with Large Language Models]() by Stefan Hegselmann, Shannon Zejiang Shen, Florian Gierse, Monica Agrawal, David Sontag, and Xiaoyi Jiang.
+This repository contains the code to reproduce the results of the  paper [A Data-Centric Approach To Generate Faithful and High Quality Patient Summaries with Large Language Models](https://arxiv.org/abs/2402.15422) by Stefan Hegselmann, Shannon Zejiang Shen, Florian Gierse, Monica Agrawal, David Sontag, and Xiaoyi Jiang.
 
 ## Overview
 
