@@ -4,6 +4,8 @@
 
 This repository contains the code to reproduce the results of the  paper [A Data-Centric Approach To Generate Faithful and High Quality Patient Summaries with Large Language Models](https://arxiv.org/abs/2402.15422) by Stefan Hegselmann, Shannon Zejiang Shen, Florian Gierse, Monica Agrawal, David Sontag, and Xiaoyi Jiang.
 
+*We will release our custom MIMIC datasets on PhysioNet soon.*
+
 ## Overview
 
 Here you will find the general procedures to setup the environment, download the data, and run the code.
