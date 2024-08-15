@@ -1,10 +1,37 @@
 # A Data-Centric Approach To Generate Faithful and High Quality Patient Summaries with Large Language Models
 
-![Figure1.pdf](https://github.com/stefanhgm/patient_summaries_with_llms/files/14378703/Figure1.pdf)
+![Figure1-5](https://github.com/user-attachments/assets/fa631f08-9e56-4a37-aea3-3b46fd6d31ef)
 
-This repository contains the code to reproduce the results of the  paper [A Data-Centric Approach To Generate Faithful and High Quality Patient Summaries with Large Language Models](https://arxiv.org/abs/2402.15422) by Stefan Hegselmann, Shannon Zejiang Shen, Florian Gierse, Monica Agrawal, David Sontag, and Xiaoyi Jiang.
+This repository contains the code to reproduce the results of the  paper [A Data-Centric Approach To Generate Faithful and High Quality Patient Summaries with Large Language Models](https://proceedings.mlr.press/v248/hegselmann24a.html) by Stefan Hegselmann, Shannon Zejiang Shen, Florian Gierse, Monica Agrawal, David Sontag, and Xiaoyi Jiang.
 
-*We will release our custom MIMIC datasets on PhysioNet soon.*
+We released the 100 doctor-written summaries from the MIMIC-IV-Note Discharge Instructions and hallucinations 100 LLM-generated patient summaries annotated for unsupported facts by two medical experts on PhysioNet. We also published all datasets created in our work to fully reproduce our experiments.
+
+If you consider our work helpful or use our datasets, please consider the citations for our paper and PhysioNet repository:
+
+```
+@InProceedings{pmlr-v248-hegselmann24a,
+  title = 	{A Data-Centric Approach To Generate Faithful and High Quality Patient Summaries with Large Language Models},
+  author =      {Hegselmann, Stefan and Shen, Zejiang and Gierse, Florian and Agrawal, Monica and Sontag, David and Jiang, Xiaoyi},
+  booktitle = 	{Proceedings of the fifth Conference on Health, Inference, and Learning},
+  pages = 	{339--379},
+  year = 	{2024},
+  volume = 	{248},
+  series = 	{Proceedings of Machine Learning Research},
+  month = 	{27--28 Jun},
+  publisher =   {PMLR},
+  url = 	{https://proceedings.mlr.press/v248/hegselmann24a.html},
+}
+
+@Misc{hegselmann_ann-pt-summ2024,
+  title = 	{Medical Expert Annotations of Unsupported Facts in {Doctor}-{Written} and LLM-Generated Patient Summaries},
+  author =      {Hegselmann, Stefan and Shen, Zejiang and Gierse, Florian and Agrawal, Monica and Sontag, David and Jiang, Xiaoyi},
+  booktitle = 	{Proceedings of the fifth Conference on Health, Inference, and Learning},
+  year = 	{2024},
+  publisher =   {PhysioNet},
+  url = 	{https://physionet.org/content/ann-pt-summ/1.0.0/},
+  doi = 	{https://doi.org/10.13026/a66y-aa53},
+}
+```
 
 ## Overview
 
